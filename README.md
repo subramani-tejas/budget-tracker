@@ -20,3 +20,20 @@ A proof-of-concept application that provides a custom web UI to add expense entr
    ```properties
    google.sheet.id=YOUR_SHEET_ID_HERE
    ```
+
+## Running the Application
+
+### Backend (Spring Boot)
+
+1. Navigate to the Spring Boot project root.
+2. Run the application (starts on http://localhost:8080):
+
+### Frontend (React)
+
+1. Navigate to the frontend directory.
+2. Install dependencies and start the app (starts on http://localhost:3000):
+
+```Bash
+npm install
+npm start
+```
